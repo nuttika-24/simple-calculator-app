@@ -1,6 +1,7 @@
-/src
-  /frontend
-    index.html  
-    style.css  
-    script.js  
-README.md  
+วิธี “clone + เปิดไฟล์”
+
+วิธีรัน (เพียงเปิด index.html หรือใช้ Live Server ก็ได้)
+
+โครงสร้างไฟล์/โฟลเดอร์
+
+รายละเอียดฟีเจอร์ (บวก ลบ คูณ หาร, Clear, UI)
